@@ -17,8 +17,6 @@
 
 ## ¿Quién soy?
 
-<img align="right" src="https://raw.githubusercontent.com/Bloksitomx/assets/main/avatar.png" width="180"/>
-
 ¡Hola! Soy <strong>Bloksitomx</strong>, un creador de contenido enfocado exclusivamente en <strong>Minecraft Bedrock Edition</strong>.  
 Me encanta compartir mis proyectos con la comunidad para mejorar la experiencia de juego.
 
