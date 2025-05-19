@@ -18,16 +18,6 @@ Un rincón lleno de <strong>texturas</strong>, <strong>addons</strong> y <strong
 
 ---
 
-## Contenido destacado
-
-| Proyecto      | Tipo       | Descripción                      | Descarga |
-|---------------|------------|----------------------------------|----------|
-| **BloquesHD** | Textura    | Paquete de bloques en alta calidad | [MediaFire](https://tulink.com) |
-| **MobsX**     | Addon      | Nuevos mobs con habilidades      | [MediaFire](https://tulink.com) |
-| **CasaPro**   | Litemática | Casa moderna totalmente decorada | [MediaFire](https://tulink.com) |
-
----
-
 ## Comunidad y redes
 
 - YouTube: [Bloksitomx Oficial](https://youtube.com/@bloksitomx)
