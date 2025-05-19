@@ -23,13 +23,8 @@ Un rincón lleno de <strong>texturas</strong>, <strong>addons</strong> y <strong
 - YouTube: [Bloksitomx Oficial](https://youtube.com/@bloksitomx)
 - Discord: [Únete aquí](https://discord.gg/txhFz8xj)
 - TikTok: [@bloksitomx](https://www.tiktok.com/@bloksitomx?_t=ZM-8wUQU9StRxQ&_r=1)
-
----
-
-## Estadísticas
-
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=ivvss202&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ivvss202&layout=compact&theme=tokyonight)
+- Telegram [Bloksito Contenido](https://t.me/bloksitomx)
+- WhatsApp [Bloksitomx Oficial](https://whatsapp.com/channel/0029VbB6kZZJZg40vsdgqu3H)
 
 ---
 
