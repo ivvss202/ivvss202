@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ivvss202/Assets/refs/heads/main/IMG-20250507-WA0171.jpg" alt="Logo de Bloksitomx" width="120"/>
   <br/>
-  ¡Bienvenido al Mundo de Bloksitomx!
+  🎮 ¡Bienvenido al Mundo de Bloksitomx! 🧱
 </h1>
 
 <p align="center">
-  Un rincón lleno de <strong>texturas</strong>, <strong>addons</strong> y <strong>litemáticas</strong> para Minecraft Bedrock.<br/>
+  Un rincón lleno de <strong>texturas</strong>, <strong>addons</strong> y <strong>litemáticas</strong> para <strong>Minecraft Bedrock</strong>.<br/>
   <em>¡Cosas hechas por la comunidad, para la comunidad!</em>
 </p>
 
@@ -15,18 +15,19 @@
 
 ---
 
-## ¿Quién soy?
+## ✨ ¿Quién soy?
 
-¡Hola! Soy <strong>Bloksitomx</strong>, un creador de contenido enfocado exclusivamente en <strong>Minecraft Bedrock Edition</strong>.  
-Me encanta compartir mis proyectos con la comunidad para mejorar la experiencia de juego.
+¡Hola! Soy <strong>Bloksitomx</strong>, un apasionado creador de contenido enfocado exclusivamente en <strong>Minecraft Bedrock Edition</strong>.
 
-- Texturas personalizadas en HD
-- Addons funcionales únicos
-- Litemáticas listas para importar
+Me encanta compartir mis proyectos con la comunidad para mejorar la experiencia de juego con:
+
+- 🎨 Texturas 
+- 🧩 Addons funcionales únicos  
+- 🏗️ Litemáticas listas para importar
 
 ---
 
-## Comunidad y redes
+## 🌐 Comunidad y redes
 
 <p align="center">
   <a href="https://youtube.com/@bloksitomx">
@@ -50,5 +51,5 @@ Me encanta compartir mis proyectos con la comunidad para mejorar la experiencia 
 
 <p align="center">
   <em>Gracias por visitar mi perfil</em><br/>
-  <strong>Bloksitomx | Minecraft Bedrock</strong>
+  <strong>Bloksitomx | Minecraft Bedrock</strong> 🧱
 </p>
