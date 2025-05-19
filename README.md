@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Bloksitomx/assets/main/logo.png" alt="Logo de Bloksitomx" width="120"/>
+  <img src="https://raw.githubusercontent.com/ivvss202/Assets/refs/heads/main/IMG-20250507-WA0171.jpg" alt="Logo de Bloksitomx" width="120"/>
   <br/>
   ¡Bienvenido al Mundo de Bloksitomx!
 </h1>
