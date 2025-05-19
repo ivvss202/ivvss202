@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bloksitomx/assets/main/banner-minecraft.png" alt="Vista Minecraft" width="90%"/>
+  <img src="https://raw.githubusercontent.com/ivvss202/Assets/refs/heads/main/24b4a1a3db937ab7254575f70922a103.jpg" alt="Vista Minecraft" width="90%"/>
 </p>
 
 ---
