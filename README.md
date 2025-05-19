@@ -3,7 +3,7 @@
 <p align="center">
 Un rincón lleno de <strong>texturas</strong>, <strong>addons</strong> y <strong>litemáticas</strong> para Minecraft Bedrock.
 <br/>
-¡Hecho por fans, para fans!
+¡Cosas hechas por la comunidad, para la comunidad!
 </p>
 
 ---
@@ -12,8 +12,8 @@ Un rincón lleno de <strong>texturas</strong>, <strong>addons</strong> y <strong
 
 ¡Hola! Soy **Bloksitomx**, un creador de contenido enfocado exclusivamente en Minecraft Bedrock Edition. Me encanta compartir mis proyectos con la comunidad para mejorar la experiencia de juego.
 
-- Texturas HD personalizadas
-- Addons funcionales
+- Texturas
+- Addons
 - Litemáticas (estructuras) listas para importar
 
 ---
@@ -30,9 +30,9 @@ Un rincón lleno de <strong>texturas</strong>, <strong>addons</strong> y <strong
 
 ## Comunidad y redes
 
-- YouTube: [Bloksitomx Oficial](https://youtube.com)
-- Discord: [Únete aquí](https://discord.gg/ejemplo)
-- TikTok: [@bloksitomx](https://tiktok.com/@bloksitomx)
+- YouTube: [Bloksitomx Oficial](https://youtube.com/@bloksitomx)
+- Discord: [Únete aquí](https://discord.gg/txhFz8xj)
+- TikTok: [@bloksitomx](https://www.tiktok.com/@bloksitomx?_t=ZM-8wUQU9StRxQ&_r=1)
 
 ---
 
